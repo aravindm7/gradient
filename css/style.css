@@ -1,0 +1,19 @@
+.g1{
+	    height: 100vh;
+    background-image: linear-gradient(to left, rgb(366 38 38), rgb(461 235 59));
+}
+.g2{
+	    height: 200px;
+    width: 200px;
+    background-image: radial-gradient(red 20%,green 60%, orange 20%);
+}
+.g3{
+	height: 200px;
+    width: 200px;
+    background-image: repeating-linear-gradient(127deg, #1ea7bd, black 100px);
+}
+h1{
+	text-transform:capitalize;
+	text-decoration:underline;
+	text-decoration-style:wavy;
+}
